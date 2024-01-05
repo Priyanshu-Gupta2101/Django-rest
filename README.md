@@ -1,4 +1,4 @@
-```markdown
+
 # Django Rest Invoice Management System
 
 This is a Django-based Invoice Management System that provides APIs for creating, updating, and retrieving invoices along with their details. It is built using Django and Django Rest Framework.
@@ -159,4 +159,3 @@ Feel free to contribute to the project by opening issues and submitting pull req
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
